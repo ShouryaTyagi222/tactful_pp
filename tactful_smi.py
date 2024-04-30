@@ -1,7 +1,7 @@
 from strategy import Strategy
 import numpy as np
 
-from encoder import Pix2StructEncoder
+from encoder_2 import Pix2StructEncoder
 
 import torch
 from torch import nn
